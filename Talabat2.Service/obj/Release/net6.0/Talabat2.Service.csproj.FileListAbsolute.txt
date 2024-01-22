@@ -1,0 +1,15 @@
+D:\self-projects\New folder\Talabat.Apis2.solution2\Talabat2.Service\bin\Release\net6.0\Talabat2.Service.deps.json
+D:\self-projects\New folder\Talabat.Apis2.solution2\Talabat2.Service\bin\Release\net6.0\Talabat2.Service.dll
+D:\self-projects\New folder\Talabat.Apis2.solution2\Talabat2.Service\bin\Release\net6.0\Talabat2.Service.pdb
+D:\self-projects\New folder\Talabat.Apis2.solution2\Talabat2.Service\bin\Release\net6.0\Talabat2.core.dll
+D:\self-projects\New folder\Talabat.Apis2.solution2\Talabat2.Service\bin\Release\net6.0\Talabat2.core.pdb
+D:\self-projects\New folder\Talabat.Apis2.solution2\Talabat2.Service\obj\Release\net6.0\Talabat2.Service.csproj.AssemblyReference.cache
+D:\self-projects\New folder\Talabat.Apis2.solution2\Talabat2.Service\obj\Release\net6.0\Talabat2.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\self-projects\New folder\Talabat.Apis2.solution2\Talabat2.Service\obj\Release\net6.0\Talabat2.Service.AssemblyInfoInputs.cache
+D:\self-projects\New folder\Talabat.Apis2.solution2\Talabat2.Service\obj\Release\net6.0\Talabat2.Service.AssemblyInfo.cs
+D:\self-projects\New folder\Talabat.Apis2.solution2\Talabat2.Service\obj\Release\net6.0\Talabat2.Service.csproj.CoreCompileInputs.cache
+D:\self-projects\New folder\Talabat.Apis2.solution2\Talabat2.Service\obj\Release\net6.0\Talabat2.Service.csproj.CopyComplete
+D:\self-projects\New folder\Talabat.Apis2.solution2\Talabat2.Service\obj\Release\net6.0\Talabat2.Service.dll
+D:\self-projects\New folder\Talabat.Apis2.solution2\Talabat2.Service\obj\Release\net6.0\refint\Talabat2.Service.dll
+D:\self-projects\New folder\Talabat.Apis2.solution2\Talabat2.Service\obj\Release\net6.0\Talabat2.Service.pdb
+D:\self-projects\New folder\Talabat.Apis2.solution2\Talabat2.Service\obj\Release\net6.0\ref\Talabat2.Service.dll
